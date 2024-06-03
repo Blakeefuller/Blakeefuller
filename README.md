@@ -1,7 +1,7 @@
 ## Hi there 👋
-<h1 href="https://www.linkedin.com/in/blake-fuller-097291245/">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-</h1>
+<a href="https://www.linkedin.com/in/blake-fuller-097291245/">
+    <img align="left" alt="Blake Fuller Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+</a>
 
 **Languages I have used**
 
