@@ -1,7 +1,7 @@
 ## Hi there 👋
-<a href="https://www.linkedin.com/in/blake-fuller-097291245/">
+<div href="https://www.linkedin.com/in/blake-fuller-097291245/">
     <img align="left" alt="Blake Fuller Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-</a>
+</div>
 
 **Languages I have used**
 
