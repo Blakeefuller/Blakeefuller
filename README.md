@@ -1,10 +1,20 @@
-## Hi there 👋
-<div>
-    <a href="https://www.linkedin.com/in/blake-fuller-097291245/">
-        <img align="left" alt="Blake Fuller Linkedin" width="32px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-    </a>
-</div>
-<div>
+## Hi there I'm Blake Fuller👋
+
+**About Me**
+<a href="https://www.linkedin.com/in/blake-fuller-097291245/">
+    <img align="left" alt="Blake Fuller Linkedin" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+</a>
+
+💡   I'm a software developer open to work.
+
+🎓 I graduated from Oregon State University with a degree in Computer Science with a focus in web and mobile development. 
+
+✍️  In my free time I enjoy running, music, reading, and drawing.
+
+📄  You can check my Resume on my LinkedIn for more details about my work experience.
+
+
+
 **Languages I have used**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
@@ -25,7 +35,8 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Blakeefuller&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blakeefuller&hide_title=false&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
-</div>
+
+
 
 
 
