@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Header](https://github.com/Blakeefuller/Blakeefuller/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+
 **Languages I have used**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
