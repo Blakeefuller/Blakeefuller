@@ -7,7 +7,9 @@
 
 💡   I'm a software developer open to work.
 
-🎓 I graduated from Oregon State University with a degree in Computer Science with a focus in web and mobile development. 
+🌱 Currently studying at Georgia Insitute of Technology Online for my Master's Degree in Computer Science with a focus on Machine Learning.
+
+🎓 I graduated from Oregon State University with a Bachelor's Degree in Computer Science with a focus on Web and Mobile Development. 
 
 ✍️  In my free time I enjoy running, music, reading, and drawing.
 
